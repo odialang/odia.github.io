@@ -1,1 +1,1 @@
-# odia.github.io
+# odialang.github.io
